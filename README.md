@@ -26,7 +26,7 @@
   <div>
     <p>
       WARNING: Can be tricky at first<br>
-      HAVE FUN!
+      HAVE FUN!<br>
       Let me know if you have any recommendations to make it better
     </p>
   </div>
