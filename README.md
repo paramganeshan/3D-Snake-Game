@@ -1,15 +1,13 @@
 # 3D-Snake-Game
 <main>
   <div>
-    </h3>A 3D Version of Snake</h3>
+    <h3>A 3D Version of Snake</h3>
   </div>
    
   <div>
-    <h4>Controls</h4>
-  </div>
-  
-  <div>
-    <h4>Controls</h4>
+    <h4>
+      <b>Controls</b>
+    </h4>
   </div>
     
   <div>
@@ -25,8 +23,9 @@
   
   <div>
     <p>
-      WARNING: Can be tricky at first<br>
-      HAVE FUN!<br>
+      <b>WARNING</b>: Can be tricky at first<br>
+      <b>HAVE FUN!<b>
+        <br>
       Let me know if you have any recommendations to make it better
     </p>
   </div>
